@@ -108,5 +108,3 @@ Items are ordered by priority (High → Medium → Low). Each item includes a sh
 * Avoid memory-reading the game process — use the local client API whenever possible.
 
 ---
-
-If you want, I can turn the High Priority items into ready-to-create GitHub issues (title, description, and checklists).
