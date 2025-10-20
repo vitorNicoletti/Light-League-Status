@@ -68,9 +68,9 @@ Items are ordered by priority (High → Medium → Low). Each item includes a sh
 
 ## Roadmap by Milestones (short sprints)
 
-* **Sprint 1 (1–2 weeks):** Repo setup + Live Client Data API proof-of-concept + Data Dragon parsing + console demo.
-* **Sprint 2 (1–2 weeks):** Basic transparent overlay window and static render prototype.
-* **Sprint 3 (1–2 weeks):** Complete integration (real-time data → render) + secondary GUI.
+* **Sprint 1 (2 weeks):** Repo setup + Live Client Data API proof-of-concept + Data Dragon parsing + console demo.
+* **Sprint 2 (2 weeks):** Basic transparent overlay window and static render prototype.
+* **Sprint 3 (2 weeks):** Complete integration (real-time data → render) + secondary GUI.
 * **Sprint 4 (1 week):** Testing, documentation, build scripts, and initial GitHub release.
 
 ---
