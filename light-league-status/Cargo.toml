@@ -8,4 +8,4 @@ reqwest = { version = "0.12", features = ["json"] }
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
 tokio = { version = "1", features = ["full"] }
-dotenvy = "0.15" # Add this line
+dotenvy = "0.15" 
